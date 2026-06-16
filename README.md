@@ -1,34 +1,134 @@
-
-
-<h1 align="center">Hi, I'm Sudheer Bhagavatula 👋  sudheerbhagavatula@gmail.com</h1>
+<h1 align="center">Hi, I'm Sudheer Bhagavatula 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> — Angular · TypeScript · Node.js · Express · MySQL
-</p>
-
-<p align="center">
-  I build end-to-end web applications — from responsive Angular frontends to secure REST APIs with JWT authentication and role-based access control.
+  <b>Full Stack Developer</b> — Angular · TypeScript · Node.js · Express · MySQL
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+- 🚀 I'm a **Full Stack Developer** with hands-on experience building Angular frontends and Node.js backends
+- 🔐 I've built **JWT Authentication** and **Role-Based Access Control** systems from scratch
+- 🌱 Currently expanding into **Cloud and DevOps Tools**
+- 👯 I'm interested in collaborating on **Full-Stack and REST API Projects**
+- 💬 Reach out to me: **sudheerbhagavatula@gmail.com**
+- 😊 Open to feedback, discussions and collaborations!
+
+---
+
+## 🚀 Skills / Tech Stack
+
+---
+
+### 💻 Programming Languages
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/><br/>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/><br/>SQL
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Frontend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/><br/>Angular
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/><br/>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=rxjs" width="48" height="48" alt="RxJS"/><br/>RxJS
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/><br/>Angular
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/>Express.js
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Backend
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/><br/>JWT Auth
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/RBAC-6A0DAD?style=for-the-badge&logoColor=white" alt="RBAC"/><br/>RBAC
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Other Tools & Technologies
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,4 +165,4 @@
 
 ---
 
-<p align="left"><em>Open to Full Stack / Frontend / Backend roles — feel free to reach out!</em></p>
+<p align="center"><em>Open to Full Stack / Frontend / Backend roles — feel free to reach out! 😊</em></p>
