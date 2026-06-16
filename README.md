@@ -1,25 +1,34 @@
-# Hi, I'm Sudheer Bhagavatula 👋 sudheerbhagavatula@gmail.com
 
-**Full Stack Developer** | Angular · TypeScript · Node.js · Express · MySQL
 
-I build end-to-end web applications — from responsive Angular frontends to 
-secure REST APIs with JWT authentication and role-based access control.
+<h1 align="center">Hi, I'm Sudheer Bhagavatula 👋  sudheerbhagavatula@gmail.com</h1>
+
+<p align="center">
+  <strong>Full Stack Developer</strong> — Angular · TypeScript · Node.js · Express · MySQL
+</p>
+
+<p align="center">
+  I build end-to-end web applications — from responsive Angular frontends to secure REST APIs with JWT authentication and role-based access control.
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-`Angular` `TypeScript` `HTML` `CSS` `RxJS`
-
-**Backend**
-`Node.js` `Express.js` `REST APIs` `JWT Auth` `RBAC`
-
-**Database**
-`MySQL` `SQL`
-
-**Tools**
-`Git` `GitHub` `Postman`
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
@@ -34,12 +43,26 @@ secure REST APIs with JWT authentication and role-based access control.
 
 ---
 
-## 📫 Connect with me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-bhagavatula-1a92b91b5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sudheee-dev)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheee-dev&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheee-dev&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
-*Open to Full Stack / Frontend / Backend roles — feel free to reach out!*
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sudheer-bhagavatula-1a92b91b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sudheee-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="left"><em>Open to Full Stack / Frontend / Backend roles — feel free to reach out!</em></p>
