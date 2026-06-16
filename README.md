@@ -1,6 +1,6 @@
 # Hi, I'm Sudheer Bhagavatula 👋
 
-**Frontend Developer** | Angular · TypeScript · Node.js · SQL
+**Full Stack Developer | Angular · TypeScript · Node.js · Express · MySQL . Postman 
 
 I build clean, functional web apps — from role-based dashboards to full-stack REST APIs with JWT auth. Currently expanding into full-stack development.
 
@@ -41,4 +41,3 @@ sudheerbahagavtula@gmail.com - Gmail
 ---
 
 *Open to frontend / full-stack roles — feel free to reach out!*
- Copy
